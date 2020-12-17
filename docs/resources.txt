@@ -1,0 +1,6 @@
+https://pkg.go.dev/container/list#List.PushBack
+https://yourbasic.org/golang/implement-fifo-queue/
+https://fauna.com/features
+https://github.com/phf/go-queue
+queue in db
+http://learnmongodbthehardway.com/schema/schemabasics/
